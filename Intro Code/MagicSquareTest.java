@@ -39,7 +39,7 @@ public class MagicSquareTest
                         {10,18, 1,14,22},
                         {23, 6,19, 2,15}};
 
-    MagicSquare useful= new MagicSquare(square1);
+    MagicSquare util= new MagicSquare(square1);
 
     if (util.isMagic())
         System.out.println("It's MAGIC!! With a sum of "+ useful.getMagicNum());
