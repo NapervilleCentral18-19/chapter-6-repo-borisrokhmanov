@@ -1,0 +1,10 @@
+"Homer Simpson" 0001 1090.45 1
+"Homer Simpson" 0002 786.54 2
+"Bart Simpson" 1564 4571.60 1
+"Liz Wilson" 1349 2034.52 2
+"Jack Hagested" 2389 280.67 1
+"Jack Hagested" 2391 1008.53 2
+"Emy Hayes" 3598 1260.84 1
+"Doug Dralle" 4562 5783.90 1
+"Eric Willhelm" 3208 3420.75 1
+"Julie Noris" 4568 9041.49 2
