@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=codeWordChecker
+comment1.params=intLim1\ intLim2\ strLim
+comment1.target=codeWordChecker(int,\ int,\ java.lang.String)
+comment2.params=strLimSingle
+comment2.target=codeWordChecker(java.lang.String)
+comment3.params=input\ intLimit1\ intLimit2\ strLimit
+comment3.target=boolean\ isValid(java.lang.String,\ int,\ int,\ java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
