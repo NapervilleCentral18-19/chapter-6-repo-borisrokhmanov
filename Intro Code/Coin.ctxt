@@ -1,11 +1,12 @@
 #BlueJ class context
 comment0.target=Coin
-comment1.params=value\ type
-comment1.target=Coin(double,\ char)
+comment1.params=typeOfCoin
+comment1.target=Coin(char)
 comment2.params=
-comment2.target=java.lang.String\ toString()
+comment2.target=double\ getValue()
 comment3.params=
-comment3.target=double\ getVal()
+comment3.target=char\ getType()
 comment4.params=
-comment4.target=int\ getType()
+comment4.target=java.lang.String\ toString()
+comment4.text=-----------------------------------------------------------------\r\n\ \ Returns\ the\ current\ face\ of\ the\ coin\ as\ a\ string.\r\n\ \ \ \ \ \ \ \ @return\ String\r\n
 numComments=5

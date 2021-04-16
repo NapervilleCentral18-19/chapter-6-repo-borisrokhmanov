@@ -1,11 +1,11 @@
-public class magicSquare
+public class MagicSquare
 {
     int num = 0;
     int [][] magicSquare;
     
-    public magicSquare(int [][] arr)
+    public MagicSquare(int [][] arr)
     {
-        this.setmagicSquare(arr);
+        this.setMagicSquare(arr);
     }
     
     public boolean isMagic()
@@ -36,8 +36,7 @@ public class magicSquare
                 return false;
         
         for (int row = 0; row < magicSquare.length; row++){ //checks second diagonal (top right to bot left)
-            for (int col = magicSquare.length - 1; col >= 0; col++)
-                sumDia2 += magicSquare[row][col];
+            sumDia2 += magicSquare[magicSquare.length - 1 - row][row];
         }
         if (sumDia2 != num)
                 return false;
@@ -51,7 +50,7 @@ public class magicSquare
     }
     
      //sets the magic square and size of square (magic num)
-    public void setmagicSquare(int [][] arr)
+    public void setMagicSquare(int [][] arr)
     {
         magicSquare = arr;
         num = 0;

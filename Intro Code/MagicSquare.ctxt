@@ -1,11 +1,11 @@
 #BlueJ class context
-comment0.target=magicSquare
+comment0.target=MagicSquare
 comment1.params=arr
-comment1.target=magicSquare(int[][])
+comment1.target=MagicSquare(int[][])
 comment2.params=
 comment2.target=boolean\ isMagic()
 comment3.params=
 comment3.target=int\ getMagicNum()
 comment4.params=arr
-comment4.target=void\ setmagicSquare(int[][])
+comment4.target=void\ setMagicSquare(int[][])
 numComments=5
